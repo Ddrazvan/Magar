@@ -10,3 +10,7 @@ something else added
 I am editing this for the sake of demonstration
 
 And another input
+
+This is a domestic animal
+
+That has very long ears
